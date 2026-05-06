@@ -1,6 +1,6 @@
 ---
 title: "Tesing collab 2"
-author: "Stella Freedberg"
+author: "Stella Freedberg, Audrey Juneman"
 format: pdf
 ---
 
